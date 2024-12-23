@@ -1,7 +1,7 @@
 # Uber Landing (Production Build)
 
 This repository contains a **production build** of a landing page created with **HTML**, **SCSS** (compiled into a final CSS file), and some JavaScript for basic interactivity (hamburger menu).  
-View the live site here: *[[Insert your GitHub Pages or hosting link](https://ksavdev.github.io/uber-landing/)]*
+View the live site here: [https://ksavdev.github.io/uber-landing/](https://ksavdev.github.io/uber-landing/)
 
 ## Key Points
 
