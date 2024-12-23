@@ -19,9 +19,6 @@ View the live site here: *[[Insert your GitHub Pages or hosting link](https://ks
 
 ## Folder Structure
 
-├─ css/ │ ├─ bootstrap-grid.min.css │ ├─ bootstrap-reboot.min.css │ ├─ style.css │ ├─ style.min.css │ └─ style.min.css.map ├─ js/ │ └─ script.js ├─ sass/ │ ├─ _general.sass │ ├─ _media.sass │ ├─ _mixins.sass │ ├─ _variables.sass │ └─ style.sass └─ index.html
-
-
 - **`css/`**: Contains final compiled CSS, including Bootstrap.  
 - **`sass/`**: Contains partial SCSS files and a main `style.sass` that imports them.  
 - **`js/`**: Contains the `script.js` file for hamburger menu functionality.  
